@@ -1,1 +1,4 @@
-console.log('Hello World');
+function MostrarMensagem(msg){
+    console.log(msg);
+}
+MostrarMensagem('Hello World');
